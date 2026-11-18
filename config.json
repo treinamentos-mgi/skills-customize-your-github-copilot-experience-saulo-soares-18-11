@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sqlite-data-persistence",
+      "title": "Data Persistence with SQLite",
+      "description": "Create a Python notes manager with persistent SQLite storage and parameterized CRUD operations.",
+      "path": "assignments/sqlite-data-persistence",
+      "dueDate": "2026-11-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
